@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 //vishal
-//nish
+//nishchal
 
 
 struct node
