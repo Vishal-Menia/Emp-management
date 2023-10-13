@@ -16,6 +16,7 @@ char ename[20];
 char econtact[10];
 float esalary;
 
+
 int menu()
 {
     int ch;
@@ -32,6 +33,7 @@ int menu()
     printf("\nEnter your choice : ");
     scanf("%d", &ch);
     printf("\n");
+    printf("hello world");
     return ch;
 }
 
